@@ -1,0 +1,15 @@
+{
+  "name": "clima_criativo",
+  "version": "0.1.0",
+  "description": "Três climas originais feitos só com a API pública (ctx.weather): chuva de pétalas, névoa de esporos (um efeito de status no jogador) e aurora. Arte por código. /clima petalas | esporos | aurora.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
